@@ -7,7 +7,7 @@ Created on Thu Sep  7 11:43:19 2023
 """
 
 # import
-from estimator.estimator import *
+from estimator import *
 import matplotlib.pyplot as plt
 import math
 
