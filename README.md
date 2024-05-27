@@ -1,5 +1,5 @@
 # AdaptiveAndParallelMismatchAttack
-Some basic Python scripts used to generate Figure 2 and 3 in the preprint of the paper "The Perils of Limited Key Reuse: Adaptive and Parallel Mismatch Attacks with Post-processing Against Kyber", available on ePrint as [ePrint number to be added].
+Some basic Python scripts used to generate Figure 2 and 3 in the preprint of the paper "The Perils of Limited Key Reuse: Adaptive and Parallel Mismatch Attacks with Post-processing Against Kyber", available on ePrint at https://eprint.iacr.org/2024/810.
 
 To generate Figure 2 (including some subfigures not included in the paper), simply run the Python script QueryPerformancePlot.py.
 
